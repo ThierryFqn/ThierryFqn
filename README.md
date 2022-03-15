@@ -1,4 +1,4 @@
-#Hi, I'm Thierry✌🏼
+<h1 align="left">Hi, I'm Thierry✌🏼</h1>
 <h3 align="left">A passionate Product Manager from France 🇫🇷</h3>
 
 I just finished a 9 weeks bootcamp in web development at Le Wagon to deeper understand and manage Product-Development Life Cycle.
