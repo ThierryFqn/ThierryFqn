@@ -1,5 +1,5 @@
 # Hi, I'm Thierry✌🏼
-### A passionate Product Manager from France 🇫🇷
+### A passionate & curious Product Manager from France 🇫🇷
 
 I just finished a 9 weeks bootcamp in web development at **Le Wagon** to deeper understand and manage Product-Development Life Cycle.
 
