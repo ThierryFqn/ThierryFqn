@@ -1,7 +1,7 @@
 # Hi, I'm Thierry✌🏼
 ### A passionate & curious Product Manager from France 🇫🇷
 
-I just finished a 9 weeks bootcamp in web development at **Le Wagon** to deeper understand and manage Product-Development Life Cycle.
+I just finished a 9 weeks bootcamp in web development at **Le Wagon** to get a deeper understanding of the Product-Development Life Cycle.
 
 - 🌱 I learned **Ruby, SQL, Rails, HTML/CSS/Bootstrap, ES6, JS, wireframing on Figma/Sketch**
 - 💼 I'm currently looking for a job 👉 https://www.linkedin.com/in/fonquerniethierry/
